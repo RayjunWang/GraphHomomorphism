@@ -1,0 +1,9 @@
+.lake/
+*.olean
+*.olean.*
+*.ilean
+*.ir
+*.trace
+__pycache__/
+*.zip
+audit-output.txt
